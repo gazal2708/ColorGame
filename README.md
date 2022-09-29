@@ -1,2 +1,1 @@
-# ColorGame
-This is a small rgb color game with 4 different levels to choose the right color amongst the available colours according to the rgb colour indexes
+![ColorGame](https://socialify.git.ci/gazal2708/ColorGame/image?description=1&forks=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
